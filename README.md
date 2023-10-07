@@ -16,9 +16,6 @@ The project handles incoming FX deal requests with the following key fields:
 
 The request data is subject to validation, which includes checking for missing fields and ensuring the correct data types. While the project may not cover all possible validation cases, it demonstrates how to implement such validations as shown below.
 
-![image](https://github.com/AkramJaghoub/clustered-data-warehouse/assets/105783739/e4fb5e31-695a-4104-8d88-3be5caeb789e)
-
-
 ### Key Features
 
 - The system ensures that the same deal is not imported more than once.
